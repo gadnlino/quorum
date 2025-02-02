@@ -55,4 +55,4 @@ class LegislatorActivityReport(Resource):
         return self.__repository.get_bill_voting_results(), 200
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5000)
