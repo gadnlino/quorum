@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is my solution for the Quorum Coding Challenge - Working with Legislative Data, as is described in detail in the pdf included in this repository. This file have instructions on how to install dependencies and execute the project, and the questions.md file have details about the solution itself. 
+This is my solution for the Quorum Coding Challenge - Working with Legislative Data, as is described in detail in the pdf included in this repository. This file has instructions on how to install dependencies and execute the project, and the questions.md file has details about the solution itself.
 
 ## Getting Started <a name = "getting_started"></a>
 
